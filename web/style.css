@@ -1,0 +1,269 @@
+html {
+background-color: #EDF2C5;
+margin-bottom: 0px;
+width: 1260px;
+}
+
+body{
+    margin: 53px 160px;
+}
+
+section{
+    height: 725px;
+}
+.icon{
+    display: inline-block;
+    margin: 0px;
+}
+
+.icon{
+    align-items: baseline;
+    flex-direction: row;
+    align-self: flex-end;
+    justify-content: space-between;
+    height: 25px;
+    margin-bottom: 20px;
+}
+
+.top {
+    align-items: baseline;
+    flex-direction: row;
+    align-self: flex-end;
+    height: 25px;
+    width: 25px;
+}
+
+.top2 {
+    align-items: baseline;
+    flex-direction: row;
+    align-self: center;
+    height: 25px;
+}
+
+.fb{
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 2px;
+}
+
+.ig{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 2px;
+    display: inline-block;
+}
+
+.button{
+    align-self: flex-end;
+
+}
+
+.login{
+    text-decoration: none;
+    border: 1px solid #778A50;
+    border-radius: 3px;
+    width: 46px;
+    height: 15px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    color: #778A50;
+    margin-right: 10px;
+    padding: 5px 7px;
+    margin-left: 10px;
+    margin-bottom: 17px;
+}
+
+
+
+.join{
+    text-decoration: none;
+    border: 1px solid #778A50;
+    border-radius: 3px;
+    height: 15px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    color: #778A50;
+    margin-right: 10px;
+    padding: 5px 7px;
+    margin-bottom: 17px;
+    margin-top: 0px;
+}
+
+
+h1{
+    font-family: Arial black, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 36px;
+    color: #778A50;
+    max-width: 271px;
+    height: 42px;
+    display: block;
+    margin-top: 0px;
+    margin-bottom: 8px;
+    margin-right: 469px;
+}
+
+
+.box{
+    width: 940px;
+    height: 44px;
+    max-width: 940px;
+}
+
+.nav_box{
+    padding: 0px;
+    margin: 0px;
+    background-color: #778A50;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+
+.title{
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+    width: 940px;
+    padding: 16px 30px;
+}
+
+.WTF{
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    width: 940px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 30px;
+    padding-right: 317px;
+}
+
+.pumpkin {
+    margin-top:20px;
+    display: flex;
+    width: 940px;
+    height: 448px;
+}
+
+.hate{
+    display: inline-block;
+    margin-top: 30px;
+    margin-bottom: 35px;
+}
+
+.veg{
+    width: 445px;
+    height: 45px;
+}
+
+.vegword{
+    background-color: #778A50;
+    color:#ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    display: flex;
+    font-size: 16px;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.pic1{
+    width: 140px;
+    height: 140px;
+    margin-right: 8px;
+    margin-top: 15px;
+}
+
+.pic2{
+    width: 140px;
+    height: 140px;
+    margin-right: 8px;
+    margin-top: 15px;
+    
+}
+
+.pic3{
+    width: 140px;
+    height: 140px;
+    margin-top: 15px;
+}
+
+.con{
+    width: 445px;
+    height: 45px;
+    display: inline-block;
+    float: right;   
+}
+.conword{
+    background-color: #778A50;
+    color:#ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding-left: 30px;
+    padding-top: 17px;
+    padding-bottom: 13px;
+    
+}
+
+.detail{
+    display: inline-block;
+    background-color: #F7FBDA;
+    color: #7d7d7d;
+    font-family: Arial ;
+    font-size: 12px;
+    width: 445px;
+    height: 140px;
+    
+}
+
+.questions{
+    padding-left: 15px;
+    margin-top: 16px;
+    line-height: 1.33
+}
+
+.line{
+    width: 1px;
+    height: 25px;
+    display: inline;
+    align-items: baseline;
+}
+
+.line2{
+    margin-bottom: 20px;
+    width: 414px;
+    height:1px;
+     
+}
+.phone{
+    display: block;
+    flex-direction: column;
+    max-width: 445px;
+    padding-left: 15px;
+    margin: 0px;
+    margin-top: -12px;
+    line-height: 1.33;
+}
+
+footer{
+    font-family: Arial;
+    font-size: 12px;
+    color: #EDF2C5;
+    text-align: center;
+    background-color: #778A50;
+    width: 1264px;
+    height: 60px;
+    margin-left: -160px;
+    position: absolute;
+}
+
+#footer{
+    margin-top: 24px;   
+}
